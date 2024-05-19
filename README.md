@@ -5,7 +5,7 @@
 # Setep 1
 
 # Setep 2
-<p>Buat folder di dalam xampp/htdocs/ untuk membuat API Login. lalu setelah itu buat file koneksi untuk masuk kedatabase, adnda bisa menggunakannya <a href=""></a></p>
+<p>Buat folder di dalam xampp/htdocs/ untuk membuat API Login. lalu setelah itu buat file koneksi untuk masuk kedatabase, adnda bisa menggunakannya <a href="https://github.com/FireHR2004/Koneksi-Sederhana-PHP">Link Koneksi Sederhana PHP</a></p>
 lalu atur sesuai database dan table yang anda buat sebelumnya
 
 # Setep 3
