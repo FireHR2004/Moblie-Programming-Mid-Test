@@ -1,6 +1,6 @@
 <h5>Nama: Muhammad Fathir Ikhsan</h5>
 <h5>NIM: 2207411008</h5>
-<h5>Kelas: TI'2A</h5>
+<h5>Kelas: TI'4A</h5>
 
 # Setep 1
 Buat database menggunakan Mysql dengan webserver Xampp atau sejenisnya, dan buat table dengan ada kolom id[Primary Key],name,nim,email, dan password.
