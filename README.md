@@ -3,6 +3,7 @@
 <h5>Kelas: TI'2A</h5>
 
 # Setep 1
+Buat database menggunakan Mysql dengan webserver Xampp atau sejenisnya, dan buat table dengan ada kolom id[Primary Key],name,nim,email, dan password.
 
 # Setep 2
 <p>Buat folder di dalam xampp/htdocs/ untuk membuat API Login. lalu setelah itu buat file koneksi untuk masuk kedatabase, adnda bisa menggunakannya <a href="https://github.com/FireHR2004/Koneksi-Sederhana-PHP">Link Koneksi Sederhana PHP</a></p>
